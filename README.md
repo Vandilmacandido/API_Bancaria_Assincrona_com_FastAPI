@@ -75,6 +75,3 @@ JWT (JSON Web Tokens): Autenticação stateless robusta com python-jose e passli
 Pydantic: Validação de dados rigorosa para garantir a integridade de todas as entradas da API.
 
 
-Você gostaria que eu adicionasse uma seção de Você gostaria que eu adicionasse uma seção de 
-
-**"Tecnologias Utilizadas"** com os ícones/badges para deixar o README mais profissional?
